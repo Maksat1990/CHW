@@ -1,0 +1,15 @@
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\bin\Debug\net6.0\Task08.exe
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\bin\Debug\net6.0\Task08.deps.json
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\bin\Debug\net6.0\Task08.runtimeconfig.json
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\bin\Debug\net6.0\Task08.dll
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\bin\Debug\net6.0\Task08.pdb
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.csproj.AssemblyReference.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.AssemblyInfoInputs.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.AssemblyInfo.cs
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.csproj.CoreCompileInputs.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.dll
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\refint\Task08.dll
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.pdb
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\Task08.genruntimeconfig.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\Task08\obj\Debug\net6.0\ref\Task08.dll

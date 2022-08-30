@@ -1,0 +1,5 @@
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\obj\Debug\net6.0\C-HW.csproj.AssemblyReference.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\obj\Debug\net6.0\C-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\obj\Debug\net6.0\C-HW.AssemblyInfoInputs.cache
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\obj\Debug\net6.0\C-HW.AssemblyInfo.cs
+C:\Users\azhig\Downloads\C++ Education\C-HW\C-HW\obj\Debug\net6.0\C-HW.csproj.CoreCompileInputs.cache
