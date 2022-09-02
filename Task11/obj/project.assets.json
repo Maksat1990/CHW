@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\CHW-1.csproj",
-      "projectName": "CHW-1",
-      "projectPath": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\CHW-1.csproj",
+      "projectUniqueName": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\Task11\\Task11.csproj",
+      "projectName": "Task11",
+      "projectPath": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\Task11\\Task11.csproj",
       "packagesPath": "C:\\Users\\azhig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\obj\\",
+      "outputPath": "C:\\Users\\azhig\\Downloads\\C++ Education\\CHW\\CHW-1\\Task11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azhig\\AppData\\Roaming\\NuGet\\NuGet.Config"
