@@ -1,0 +1,15 @@
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\bin\Debug\net6.0\Task27.exe
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\bin\Debug\net6.0\Task27.deps.json
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\bin\Debug\net6.0\Task27.dll
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\bin\Debug\net6.0\Task27.pdb
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.dll
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\refint\Task27.dll
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.pdb
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+C:\Users\azhig\Downloads\C++ Education\CHW\CHW-1\Task27\obj\Debug\net6.0\ref\Task27.dll
